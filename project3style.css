@@ -1,0 +1,1 @@
+body{text-align:center;font-family:Arial;background:#eef4ff}.calculator{width:220px;margin:20px auto;display:grid;grid-template-columns:repeat(4,1fr);gap:10px}input{grid-column:span 4;padding:15px;font-size:18px}button{padding:15px;font-size:16px}.clear{grid-column:span 4;background:red;color:white}
