@@ -1,0 +1,1 @@
+function addTask(){let i=document.getElementById('taskInput');if(i.value==='')return alert('Enter task');let li=document.createElement('li');li.textContent=i.value;document.getElementById('taskList').appendChild(li);i.value='';}
