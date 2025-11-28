@@ -1,0 +1,1 @@
+function press(n){document.getElementById('display').value+=n;}function calculate(){let e=document.getElementById('display').value;document.getElementById('display').value=eval(e);}function clearDisplay(){document.getElementById('display').value='';}
